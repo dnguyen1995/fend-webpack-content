@@ -1,1 +1,2 @@
-alert("I EXIST")
+alert("I EXIST");
+alert("Hello world");
